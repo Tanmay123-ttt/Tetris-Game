@@ -1,1 +1,2 @@
 # Tetris-Game
+ Tetris is a simple grid-based game in which we as a user have to navigate five shapes or tetraminos down th bottom of our bridge the aim of the game is to get the highest score by filling up the rows on your grid in order for them to disappear and for us to gain points. We as a user can rotate the our shapes and we also have the insider knowledge by which shape is coming up next thanks to a grid to the side of our grid. In this game we will not have the levels, we are going to do basic version of the game
